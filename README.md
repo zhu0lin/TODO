@@ -14,5 +14,5 @@ Demo:
 
 
 ## Features include:
-*Persistent data by utilizing PostgreSQL 💨 <br />
+*Persistent data by utilizing **PostgreSQL CRUD** methods 👨🏻‍💻 <br />
 *User friendly interface, responsive design📱 <br />
